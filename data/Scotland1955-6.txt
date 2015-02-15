@@ -1,0 +1,117 @@
+Section A: Non-Financial Companies
+Company|Industry|Capital (1000)|Multiple Directors
+Burmah Oil|Oil|45210|Lord Bilsland, H.B. Spens
+Distillers|Whisky distillers|44075|Sir Henry J. Ross (C), L.A. Elgood, J.V. Marshall
+J. and P. Coats|Textiles|35000|R. Laidlaw (C), M. McDougall (MD), C.H. Mackenzie, A.M. Watson
+Stewarts and Lloyds|Steel|20000|
+Colvilles|Steel|14000|Sir Andrew McCance (C, MD), Sir John Craig (HP), Lord Bilsland
+Inveresk Paper|Paper man.|6427|
+Scottish Brewers|Brewing|6342|W.McE. Younger (DC), C.F.J. Younger
+Metal Industries|Shipbreakers, etc.|5900|
+Linen Thread|Textiles|5500|W. Miller (S)
+Bank Line|Shipping|5451|Lord Teviot
+United Biscuits|Biscuit man.|4500|P.G. Macdonald
+Scottish Cooperative Wholesale|Wholesale distr.|4372|
+Scottish Agricultural Industries|Fertiliser man.|4220|H.U. Cunningham (MD), E.P. Hudson
+Saxone, Lilley and Skinner (Holdings)|Shoe man. and retailers|3843|J.S. Abbott (DC, MD)
+William Baird|Textiles|3715|A.K. McCosh (C), H.C. Waterston (VC), T.H. Thorneycroft, A.R. McCosh, H.R. Neilson, J.W. Andrew (S)
+James Finlay|Traders and merch.|3500|W.H. Marr (C), Sir James Jones (DC), A.M. McGrigor, Sir John Muir, R.J. Clough, C.C.C. Bell
+Bairds and Scottish Steel|Steel|2730|A.K. McCosh (C), H.C. Waterston (VC), J.W. Andrew, A.R. McCosh, T.H. Thorneycroft
+Clan Line Steamers|Shipping|2710|Lord Rotherwick (C)
+House of Fraser|Retail distribution|2699|Hugh Fraser (C, MD)
+Consolidated Tea and Lands|Tea planters and merchants|2600|W.H. Marr (C), Sir James Jones (DC), A.M. McGrigor, G. Fellowes, R. Brown, Sir John Muir, A.R.A.G. Cameron, R.J. Clough
+Glenfield and Kennedy Holdings|Engineers|2400|H. Cowan-Douglas (C), H.R. Neilson, I.M. Stewart, J.S. Abbott
+North British Rubber|Rubber products|2225|Sir Wm Wallace
+G. and J. Weir|Engineers|2018|J.K. Weir (C), J.A. Lumsden
+Low and Bonar|Jute man.|2000|
+North British Locomotive|Locomotive eng.|2000|H. Cowan-Douglas
+Singer Manufacturing|Sewing machine man.|2000|
+Teacher (Distillers)|Whisky distillers|2000|
+Wm Collins & Sons (Holding)|Printers, publishers|1808|
+United Turkey Red|Textile finishers|1606|H. Cowan-Douglas (C), Sir James I. Campbell, W.H. Marr
+John Dewar and Sons|Whisky distillers|1600|J.V. Marshall
+Scottish Motor Traction|Vehicle distrib.|1509|Earl of Elgin and Kincardine
+Blackwood, Morton and Sons|Carpet man.|1500|
+Moss Empires|Theatre manage.|1497|
+Fleming, Reid|Textiles|1488|T.P. Spens (C)
+Jugra Land and Carey|Rubber planters|1436|
+Amalgamated Tea Estates|Tea planters and merchants|1377|W.H. Marr (C), Sir James Jones (DC), A.M. McGrigor, G. Fellowes, R. Brown, Sir John Muir, A.R.A.G. Cameron, R.J. Clough
+Kanan Devan Hills Produce|Tea planters and merchants|1300|W.H. Marr (C), Sir James Jones (DC), A.M. McGrigor, G. Fellowes, R. Brown, Sir John Muir, A.R.A.G. Cameron, C.C.C. Bell
+James Templeton|Carpet man.|1300|
+Alex Cowan and Sons|Paper man.|1275|W.H. Fraser (C), A. Harrison (VC), Sir Wm Wallace, Sir Hugh Rose
+Tharsis Sulphur and Copper|Copper mining|1250|Lord Glenconner
+Angus Milling|Flour millers|1235|
+Federated Foundries|Iron and steel founders|1213|
+Anglo-American Direct Tea Trading|Tea planters and merchants|1162|W.H. Marr (C), Sir James Jones (DC), A.M. McGrigor, G. Fellowes, R. Brown, Sir John Muir, A.R.A.G. Cameron, C.C.C. Bell
+Donaldson Line|Shipping|1114|I.H.S. Black
+Alex Pirie and Sons|Paper man.|1100|
+James Howden|Engineers|1092|
+Rivet, Bolt and Nut|Rivet, etc. man.|1031|J. Gilchrist
+Sir Wm Arrol|Engineers|1023|
+Lawsons|Retail drapers|1018|
+Cooper and Cos. Stores|Retail grocers|1000|
+MacDonald Martin Distilleries|Whisky distillers|1000|
+United Collieries|Brickworks, etc.|1000|
+Arthur Bell and Sons|Whisky distillers|1000|W. Miller
+A.B. Fleming|Ink man.|1000|Sir Hugh Rose
+Lyle Shipping|Shipping|1000|I.M. Stewart
+Section B: Banking Companies
+Company|Deposits (1000)|Multiple Directors
+Royal Bank of Scotland|319888|D.F. Landale (C), J.H. Richardson (DC), K. Murray, Earl of Elgin and Kincardine, Sir Wm Y. Darling, L.A. Elgood, T.G. Waterlow, D.H. Cameron of Lochiel, J.M. Prain
+Bank of Soctland|171600|Sir John Craig (G), Lord Bilsland (DG), J.S. Abbott, A.C. Blair, J.B. Findlay, Lord Elphinstone, R. McCosh, W.H. Marr, J.T. Dowling, Lord Polwarth, Sir Hugh Rose, J.M. Ross, H.B. Spens, Sir Douglas Thomson, T.H. Thorneycroft, Wm Watson (T)
+Clydesdale and North of Scotland Bank|170922|R. Laidlaw (DC), Lord Maclay, A.L. McClure, A. Mitchell, R.A. Murray
+Commercial Bank of Scotland|125482|Lord Rotherwick (G), G.T. Chiene, D.M. Wood, I.W. Macdonald, H.U. Cunningham, R.Y. Weir, J. Gilchrist, Sir John M. Erskine
+National Bank of Scotland|105278|W.H. Fraser (C), Lord Teviot, J.K. Weir, J.T. Leggatt, I.M. Stewart, P.J. Oliphant, Sir Andrew McCance, Hugh Fraser
+British Linen Bank|77401|Earl of Airlie (G), A. Harrison, Lord Clydesmuir, Lord Kinnaird, Sir Wm Wallace, Sir Ernest M. Wedderburn, Wm McE. Younger
+Section C: Insurance Companies
+Company|Life and General Funds (1000)|Multiple Directors
+Standard Life Assurance|157527|Sir Jas. C. Campbell (G), A. Harrison (C), Lord Kinnaird, G.P.S. Macpherson, I.R. Pitman, J.H. Richardson, Wm Watson, T.G. Waterlow
+Scottish Widows Fund and Life Assurance|83406|A.C. Blair, Sir Ian Bolton, D.H. Cameron of Lochiel, T.J.C. Gifford, K. Murray, H.G. Sharp, D.M. Wood, Wm McE. Younger
+North British and Mercantile Insurance|80074|D.B. Bogle
+Northern Assurance|55681|Lord Glenconner (C), D.F. Landale
+Scottish Amicable Life Assurance|43348|Lord Bilsland (C), J.B. Findlay, Earl of Elgin and Kincardine, H. Cunningham, J.T. Dowling, H.B. Spens
+General Accident, Fire and Life Assurance|40088|Sir Stanley Norie-Miller (C, MD), R.G. Simpson (DC), I.H.S. Black
+Scottish Provident Institution|37252|A.H. Bowhill, Sir Ernest Wedderburn, R.Y. Weir, Sir Hugh Rose, Lord Clydesmuir, Lord Elphinstone
+Scottish Union and National Insurance|28744|C.F.J. Younger (C), J.A. Lumsden (DC), A.W. Blair, H. Cowan-Douglas, Sir Wm Y. Darling, J.L. Mounsey, P.J. Oliphant, H. Watson
+Scottish Legal Life Assurance|19682|
+Scottish Equitable Life Assurance|18973|R. McCosh, R.I. Marshall, A.M. Watson, A.C. Murray
+Caledonian Insurance|17661|P.G. Macdonald (C), Sir John M. Erskine, W.H. Fraser, J.F. Carnegie, Sir Henry J. Ross, W.H. McGregor
+Scottish Life Assurance|16316|G.T. Chiene, R.M. Guild, W.L. Milligan, J.M. Prain
+Scottish Mutual Assurance (formerly Scottish Temperance)|13827|Sir John Craig (C), I.W. Macdonald, M. MacDougall
+Life Association of Scotland|10260|Earl of Airlie (C), Sir R. Erskine-Hill, E.J. Ivory, J.T. Leggatt, J.L. Mounsey, G.I. Stewart, Sir D. Thomson
+Section D: Investment and Property Companies
+Company|Capital (1000)|Multiple Directors
+Scottish American Investment|5780|A.W. Blair (C), K. Murray, Sir Ian Bolton, P.J. Oliphant
+British Assets Trust|4500|A.C. Blair (C), B.G. Ivory, H.G. Sharp, Lord Polwarth
+British Investment Trust|4500|A.H. Bowhill (C), J.H. Richardson (DC), R.Y. Weir, I.R. Pitman, D.F. Landale
+Alliance Trust|4300|A.L. Brown (C, M), T.J.C. Gifford, J.M. Prain, Sir George Cunningham, H.B. Spens, D.F. McCurrach (M), C.N. Thomson
+Second Scottish Investment|3150|T.J.C. Gifford (C), R.G. Simpson, E.J. Ivory, Wm McE. Younger, E.P. Hudson
+Scottish American Mortgage|2550|R.B. Watson (C), W.H. Fraser, A.L. McClure, D.M. Wood
+Investors' Mortgage Security|2541|T.J.C. Gifford (C), J. Chiene, D.J. Bogie, A.L. Brown, A.C. Blair
+Scottish Mortgage and Trust|2475|T.J.C. Gifford (C), D.F. McCurrach, R.I. Marshall, H. Watson
+Northern American Trust|2300|R.S.L. Macpherson (C), Sir George Williamson, Earl of Airlie
+Edinburgh Investment Trust|2250|A. Harrison (C), Sir Wm Wallace, J. Chiene, W.H. McGregor (M), J.L. Anderson, I.M. Stewart, A.P. Anderson
+Great Northern Investment Trust|2250|G.H. Christie (C), Sir Stanley Norie-Miller, J.G. Stenhouse
+New Zealand and Australian Land|2250|R.I. Marshall (C), T.P. Spens, W.H. Fraser
+Scottish United Investors|2160|H.B. Spens (C), C.H. Mackenzie, R.G. Simpson, H. Cowan-Douglas
+Realisation and Debenture Corporation of Scotland|1800|D.M. Wood (C), R.B. Watson, J.M. Ross, T.G. Waterlow
+Scottish Investment Trust|1750|T.J.C. Gifford (C), R.G. Simpson, E.J. Ivory, W. McE. Younger, E.P. Hudson
+Second Investors' Mortgage Security|1750|T.J.C. Gifford (C), J. Chiene, D.J. Bogie, A.L. Brown, A.C. Blair
+Edinburgh and Dundee Investment|1663|T.J.C. Gifford (C), A.L. Brown, W.L. Milligan, G.T. CHiene
+Scottish Eastern Investment Trust|1600|G.I. Stewart
+Second Alliance Trust|1600|A.L. Brown (C, M), T.J.C. Gifford, J.M. Prain, Sir George Cunningham, H.B. Spens, D.F. McCurrach (M), C.N. Thomson
+Aberdeen and Canadian Trust (formerly North of Scotland Canadian)|1545|J.S.R. Cruickshank (C)
+Second Scottish Western Investment|1540|T.P. Spens (C), R.A. Murray (M), Sir Alex M. Stephen, R. Laidlaw
+American Trust|1500|R.B. Watson (C), R.M. Guild, A.L. McClure
+Second Edinburgh Investment Trust|1500|A. Harrison (C), Sir Wm Wallace, J. Chiene, W.H. McGregor (M), J.L. Anderson, I.M. Stewart, A.P. Anderson
+Clydesdale Investment|1460|T.P. Spens (C), R.A. Murray (M), Lord Maclay, J.T. Dowling
+Scottish National Trust|1400|Lord Bilsland (C), Sir Robert Erskine-Hill, J.F. Carnegie
+Clyde and Mersey Investment Trust|1250|G.H. Christie, J.G. Stenhouse
+Scottish Northern Investment Trust|1250|Sir G. Williamson (C), R.S.L. Macpherson, Sir Ian Forbes-Leith
+Scottish Capital Investment|1200|T.J.C. Gifford (C), R.G. Simpson, D.B. Bogle
+Scottish Central Investment Trust|1200|T.J.C. Gifford (C), D.M. Wood, J.H. Richardson
+Scottish Consolidated Trust|1200|H.B. Spens (C), H. Cowan-Douglas, A.C. Murray, Sir James Jones
+East Scotland Trust|1190|J.S.R. Cruickshank, G.P.S. Macpherson
+Second British Assets Trust|1125|A.C. Blair (C), B.J. Ivory, H.G. Sharp, Lord Polwarth
+Caledonian Trust|1100|T.P. Spens (C), J.I. Murray (M), A. Mitchell, W.H. Marr
+Scottish Western Investment|1100|T.P. Spens (C), Sir Alex M. Stephen, R.A. Murray (M), R. Laidlaw

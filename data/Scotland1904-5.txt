@@ -1,0 +1,116 @@
+Section A: Non-Financial Companies
+Company|Industry|Capital (1000)|Multiple Directors
+North British Railway|Railways|47236|Earl of Dalkeith (C), C. Carlow (VC), A.B. Gilroy, H. Grierson, A.K. McCosh, H.S. Macpherson, A. Simpson, H.G. Younger
+Caledonian Railway|Railways|42899|Sir J. Thompson (C), Sir J. King (DC), Sir M. Mitchell-Thomson, D. Tod, Marquess of Breadalbane, H. Brown, Sir C.B. Renshaw, E. Cox, J.H. Houldsworth, Lord Newlands, H. Allan, G.R. Vernon, W. Younger
+Glasgow and South Western Railway|Railways|14204|Sir J. Bell (DC), Sir M. Arthur, Earl of Glasgow, W. Lorimer, Sir H.E. Maxwell
+J. and P. Coats|Cotton thread man.|10000|Sir T. Glen-Coats, Sir J. King, Sir W. Arrol, S. Clark
+Great North Scotland Railway|Railways|4979|T. Adam, T. Crombie
+Highland Railway|Railways|4653|R.M. Wilson (DC), Marquess of Breadalbane, W.S. Fothringham, J.G. Stewart, Duke of Sutherland, Sir W.O. Dalgleish
+Forth Bridge Railway|Railways|2325|Lord Balfour of Burleigh, Earl of Dalkeith, H. Grierson
+Consolidated Tea and Lands|Tea planters|2000|Sir A.K. Muir (C), Sir R.D. Moncrieffe, J.F. Muir, J.T. Tullis, A.M. Brown, R. Scott, R.H. Sinclair, D.M. Hannay
+Linen Thread|Linen and thread man.|1991|Sir J. Knox (VC), Sir T. Glen-Coats
+Burmah Oil|Oil|1850|L. Gow, J. Innes
+United Collieries|Coal mining|1801|H. Mungall (C), J.T. Tullis (VC), Sir D. Richmond
+North British Locomotive|Engineering|1750|W. Lorimer (C)
+Distillers|Whisky distillers|1419|A. McNab, J.B. Harvey
+Stewarts and Lloyds|Iron and steel man.|1400|J.G. Stewart (C), Sir W. Arrol, R.M. Wilson
+Lanarkshire and Dumbartonshire|Railways|1389|W.A. Donaldson (C), J.M. Denny, H. Brown
+Glasgow District Subway|Railways|1300|A. Simpson (C), J.P. Smith, A.K. McCosh
+Tharsis Sulphur & Copper|Copper mining|1250|Sir C. Tennant (C), H. Brown, T. Alexander, J. Couper, Sir J. King
+Moss Empires|Theatre manage.|1031|
+Kanan Devan Hills Produce|Tea Planters|1000|Sir A.K. Muir (C), Sir R.D. Moncrieffe, J.F. Muir, D.M. Hannay, A.M. Brown, R. Scott, R.M. Sinclair, J.T. Tullis
+William McEwan|Brewers|1000|W. Younger (MD)
+William Younger|Brewers|1000|H.G. Younger
+Barry, Ostlere & Shepherd|Linoleum man.|934|
+West Highland Railway|Railways|929|H. Grierson (C)
+Anglo-American Direct Tea Trading|Tea merchants|910|Sir A.K. Muir (C), Sir R.D. Moncrieffe, A.M. Brown, R. Scott, R.M. Sinclair, J.F. Muir, D.M. Hannay, J.T. Tullis
+Alex Pirie & Sons|Paper makers|900|
+Amalgamated Tea Estates|Tea planters|898|Sir A.K. Muir (C), Sir R.D. Moncrieffe, J.F. Muir, D.M. Hannay, A.M. Brown, R. Scott, R.M. Sinclair, J.T. Tullis
+Coltness Iron|Iron and steel man.|850|J.H. Houldsworth, Sir J. King
+Fife Coal|Coal mining|831|T. Aitken (C), J. Jordan, H. Mungall, C. Carlow
+Callander & Oban Railway|Railways|817|Sir J. Thompson (C), Marquess of Breadalbane, Lord Newlands, H. Brown, D. Tod
+Nobel's Explosives|Explosives man.|800|Sir C. Tennant (C), Sir R.W. Anstruther, H. Brown, T. Alexander
+George Younger & Son|Brewers|750|G. Younger (C)
+Arizona Copper|Copper mining|737|J.B. Harvey, A. McNab
+Irrawaddy Flotilla|Shipping|720|Sir J. King (VC), T. Aitken, J.M. Denny, J. Innes (MD)
+Scottish Gympie Gold Mines|Gold mining|660|J.B. Hillard
+Allan Line Steamships|Shipping|606|H. Allan
+Clyde Valley Electrical Power|Electricity prod.|600|Sir D. Richmond
+John Dewar & Sons|Whisky distillers|600|
+Lothians Electric Power|Electricity prod.|600|D. Russell, J.A. Hood, H. Rüffer
+Scottish Central Electric Power|Electricity prod|600|W.S.B. McLaren (C), D. Russell, J.A. Hood, H. Rüffer
+Summerlee Iron|Coal mining andiron prod.|600|
+Anchor Line (Henderson Bros.)|Shipping|575|
+British Dyewood & Chemical|Tanners|570|
+Acadia Sugar Refining|Sugar refiners|560|
+Rivet Bolt & Nut|Engineering|550|
+James Dunlop|Iron, coal and steel|549|W.A. Donaldson (C), Sir J. Thompson, W.S.B. McLaren
+Lanarkshire and Ayrshire Railway|Railways|535|G.R. Vernon (C), H.E. Gordon (DC), Sir J. Knox, D. Tod
+David & William Henderson|Engineers and shipbuilders|525|
+Clan Line Steamers|Shipping|500|A.M. Brown
+Fairfield Shipbuilding and Engineering|Shipbuilders|500|
+Wemyss Collieries Trust|Coal mining|500|H. Grierson
+Steel Company of Scotland|Iron & steel man.|496|Sir C. Tennant (P), W. Lorimer (C), J. Couper, T. Alexander
+Dailuane-Talisker Distilleries|Whisky distillers|490|
+Young's Paraffin Light & Mineral Oil|Paraffin man.|453|Sir M. Arthur, H. Brown, Sir J. King, H.S. Macpherson, T. Mason
+Bulloch Lade|Distillers & merchants|450|
+Lanarkshire Steel|Iron & steel man.|450|J. Strain (C), A. Watt
+Glengarnock Iron and Steel|Iron & steel man.|400|J. H. Davidson
+Fresno Copper|Copper mining|400|
+Lothian Coal|Coal mining|367|Sir J. King (C), R.K. Stewart, J.A. Hood (MD)
+Scottish Waggon|Coachbuilders|360|J.H. Buchanan, J. Jordan, John Cowan
+Argyll Motors|Engineering|350|
+Robertson, Sanderson|Wines & spirit merchants|350|A. Sanderson, J. Jordan, W. Blair
+A.F. Stoddard|Carpet man.|350|Sir C.B. Renshaw
+Victoria Jute|Jute spinners & weavers|350|A. Gilroy
+Broxburn Oil|Shale oil extraction|335|Sir D. Richmond (C)
+Section B: Banking Companies
+Company|Deposits (1000)|Multiple Directors
+Bank of Scotland|15198|Lord Balfour of Burleigh (G), Marquess of Linlithgow (DG), W.J. Mure, Sir M. Mitchell-Thomson, J.M. Trotter, Sir R. Anstruther, J.A. Jamieson, G. Dunlop
+National Bank of Scotland|14134|Earl of Mansfield (G), J. Mylne, John Cowan, P. Blair, G. Younger, C. Ker, W.S. Davidson, A.D.M. Black
+Commercial Bank of Scotland|14025|Marquess of Tweedale (G), Marquess of Breadalbane (DG), Sir C.G. Macrae, J.H. Buchanan, J. Strain, J. Jordan, J. Rankine, J.L. Mounsey
+Royal Bank of Scotland|13606|Duke of Buccleuch and Queensberry (G), Earl of Elgin and Kincardine (DG), Ralph Dundas, C. Carlow, J.P. Wright, Sir T.D.G. Carmichael, J. Haldane, Sir H. Cook, C.C. Maconochie
+Union Bank of Scotland|12270|Sir C. Tennant (C), H.E. Gordon, Sir L.J. Grant, A.R.C. Pitman, D. Ritchie, J.P. Smith, J.S. Tait, S. Thomson, R. Blyth, R.E. Findlay
+British Linen Co., Bank|11917|C.B. Balfour, Robert Dundas, J.J. Cowan, A. Sanderson
+Clydesdale Bank|10923|Sir J. King (C), H. Brown (DC), H. Allan, Sir J. Bell, W. Sanderson, R.K. Stewart
+North of Scotland Bank|4013|T. Crombie, T. Adam
+Section C: Insurance Companies
+Company|Life and General Funds (1000)|Multiple Directors
+Scottish Widows Fund Life Assurance|17208|Marquess of Tweedale (P), Earl of Dalkeith (VP), Sir H.E. Maxwell (VP), W.J. Mure, Sir H. Cook, Sir T.D.G. Carmichael, D. Cowan, J.A. Jamieson, C.B. Balfour, Sir M. Mitchell-Thomson, S. Clark, E.A. Davidson
+North British and Mercantile Insurance|16351|Duke of Sutherland (P), Ralph Dundas, C.C. Maconochie, Robert Dundas, G. Younger, Earl of Elgin
+Scottish Provident Institution|13138|J. MacDonald, P. Murray, J.J. Cowan, Sir L.J. Grant, J.M. Trotter
+Standard Life Assurance|10925|Duke of Buccleuch and Queensberry (G), Marquess of Linlithgow (DG), J.H. Davidson, Sir R.W. Anstruther, Sir J. King, A.R.C. Pitman, W. Younger, C.F. Whigham, J. Ivory
+Life Association of Scotland|5399|W.C. Johnston, W.H. Murray, J.L. Mounsey
+Scottish Equitable Life Assurance|5073|Duke of Buccleuch and Queensberry (P), Earl of Mansfield (VP), J.C. Pitman, P. Blair, J.M.D. Peddie
+General Accident, Fire & Life Assurance|Not known|W.S. Fothringham, Sir R.D. Moncrieffe
+Scottish Amicable Life Assurance|4670|Earl of Glasgow (VP), S. Thomson, R. Blyth, R.E. Findlay
+Scottish Union & National Insurance|4623|W.S. Davidson (C), A.D.M. Black, T. Mason, H.G. Younger
+Edinburgh Life Assurance|3865|Marquess of Breadalbane (P), G. Barclay, J. Rankine, Sir J. Guthrie, J. Mylne
+City of Glasgow Life Assurance|2832|Sir J. Bell (C), J.P. Smith, C. Ker, D. Ritchie
+Caledonian Assurance|2694|R. Stewart, W. Sanderson, W. Blair, Sir C.G. Macrae
+National Guarantee & Suretyship Association|Not known|J. Mylne, W.C. Smith, R. Stewart, W. Sanderson, J.S. Tait
+Scottish Imperial Insurance|648|L. Gow, D.M. Hannay
+Section D: Investment and Property Companies
+Company|Capital (1000)|Multiple Directors
+New Zealand and Australian Land|1550|R. Stewart (C), G. Barclay, W.S. Davidson, J. Haldane
+British Investment Trust|1500|John Cowan (C), Sir M. Mitchell-Thomson, J.P. Wright, G. Dunlop
+Scottish American Investment|1500|P.W. Campbell (C), J. Ivory, T. Maitland, W.H. Murray, A.R. Duncan
+Scottish American Mortgage|1500|A. Wallace (P), A. Whitton, P.W. Campbell
+Alliance Trust|1200|Sir J. Guthrie, A. Whitton, T. Maitland
+North of Scotland Canadian Mortgage|750|W.C. Smith
+Northern American Trust|750|E. Cox, Sir W.O. Dalgleish, A. Gilroy, R.B. Don
+Australasian Mortgage & Agency|553|C.F. Whigham
+Edinburgh Investment Trust|504|P.W. Campbell (C), W. Sanderson, W.S. Fraser, J.S. Tait
+Investors' Mortgage Security|500|G. Dunlop (C), E.A. Davidson, W. Mackenzie, A. Whitton
+North British Canadian Investment|500|
+Oregon Mortgage|500|P.W. Campbell
+Scottish Investment Trust|500|E.A. Davidson (C), J. MacDonald, C.D. Menzies, J.M.D. Peddie, R.J. Torrie
+Scottish Reversionary|500|Sir M. Mitchell-Thomson, W.C. Johnston
+American Mortgage Co. of Scotland|428|J. Campbell (C), G. Dunlop, P. Murray
+Realisation & Debenture Corp. of Scotland|403|D. Cowan (C), Sir T.D.G. Carmichael, A. Wallace, A.R.C. Pitman, J.S. Tait
+Second Scottish American Trust|400|E. Cox (C), Sir W.O. Dalgleish, A. Gilroy, R.B. Don
+Third Scottish American Trust|400|E. Cox (C), Sir W.O. Dalgleish, A. Gilroy, R.B. Don
+United States Mortgage Company|375|J. MacDonald (C), R.J. Torrie, W. Mackenzie, J.C. Pitman
+Edinburgh American Land Mortgage|362|A.R. Duncan
+Transvaal Proprietary|335|J.B. Hilliard
+Reversionary Association|325|T. Aitken (C), J. Campbell, A. Watt

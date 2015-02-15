@@ -1,0 +1,127 @@
+Section A: Non-Financial Companies
+Company|Industry|Capital (1000)|Multiple Directors
+Distillers|Whisky distillers|181585|Sir A. McDonald (C)
+Burmah Oil|Oil production|161685|J.A. Lumsden (C), R.E. Fleming, L.M.H. Gow
+Coats Patons (formerly J. & P. Coats)|Thread & textile|67796|W.D. Coats
+Scottish & Newcastle Breweries (formerly Scottish Brewers)|Brewers|54458|P.E.G. Balfour (C, JMD), E.H.M. Clutterbuck (JMD), Earl of Airlie, Sir H. Hamilton-Dalrymple, T.S. Lewis, C.F.J. Younger
+House of Fraser|Retail stores|28018|Sir H. Fraser
+United Biscuits (Holdings)|Biscuits & cakes|18807|I.W. Macdonald
+Wm Baird|Textiles & engineering|11251|J.A. Lumsden, J.P. Van den Bergh
+Metal Industries|Electrical engineering|10277|
+Inveresk Group|Paper & packaging|9037|
+Scottish Agricultural Industries|Fertilisers, etc.|8450|
+Stenhouse Holdings|Insurance broking, engineering|7684|J.G. Stenhouse (VC)
+Uniroyal (formerly North British Rubber)|Tyres & rubber goods|7554|
+Scottish & Universal Investments|Holding company|6942|Sir H. Fraser (C, MD), A.M.M. Grossart
+Lindustries (formerly Linen Thread)|Engineering, polymers and textiles|6747|J.P. Van den Bergh (VC)
+Anderson Mavor|Electrical & mining engineering|5927|B.D. Misselbrook (C)
+Arthur Bell & Sons|Whisky distillers|5650|
+Weir Group (formerly G. & J. Weir)|Engineering|4504|W.K.J. Weir (C), W.D. Coats, J.A. Lumsden
+Low & Bonar Group|Textiles, packaging, etc.|4410|Sir H.V. Bonar (C), I.C. Low (DC)
+Jas Finlay|Traders & merchant bankers|3500|Sir J. Muir (C), Sir C. Campbell (DC), R.J. Clough, N.S. Coldwell
+Wm Collins & Sons (Holdings)|Publishers|3436|D.W. Nickson (MD)
+A. Goldberg & Sons|Retail stores|3139|
+Tharsis Sulpher & Copper|Copper mining|3000|
+John Menzies (Holdings)|Retail stores|2968|J.M. Menzies (C)
+Alexandra Building Services|Non-trading|2945|
+Robertson Foods|Jams & preserves|2933|
+Teacher (Distillers)|Whisky distillers|2890|
+Howden Group (formerly Jas Howden)|Air & gas handling plant|2859|T.N. Risk
+Aberdeen Construction Group|Construction|2758|
+Nairn Floors|Floorcoverings|2662|
+Consolidated Tea & Lands|Tea merchants|2600|Sir J. Muir (C), Sir C. Campbell (DC), C.C.C. Bell, R.J. Clough, N.S. Coldwell, H. Ferguson, W.W. Mayne, G.R. Muir
+Highland Distilleries|Whisky distillers|2559|
+Glenfield & Kennedy Holdings|Engineering|2401|
+Brown & Tawse|Steel stockholders|2320|
+United Wire Group|Steel wire man.|2097|
+Tayforth|Freight carriers|2053|
+Reo Stakis Organization|Restaurants & hotels|2026|
+Lyle Shipping|Shipping|2006|J.P. Agner (C), Sir I.M. Stewart
+Blackwood, Morton & Sons|Carpet yarn spinners|2000|
+Scottish Automobile|Motor distributors|2000|
+Titaghur Jute Factory|Jute spinners|1893|W.L. Milligan
+Culter Guard Bridge Holdings|Paper makers|1867|Sir D.H. Cameron (C), J.O. Blair-Cunynghame, R.J.C. Fleming
+Scotcros|Food distsributors, packaging|1863|W.R. Alexander (C), J. Chiene
+Glenlivet Distillers|Whisky distillers|1845|I.M. Tennant (C)
+MacDonald Martin|Whisky distillers|1750|J. Burnett-Stuart
+Scottish Homes Investment|Construction|1750|J.A.R. Falconer (DC)
+Jas Scott Engineering Group|Electrical engineering|1613|
+Giddings & Lewis-Fraser|Industrial plant man.|1517|
+Bett Brothers|Construction|1500|W.F. Robertson
+M.E. Theatres (formerly Moss Empire)|Theatre management|1495|
+Hewden-Stuart Plant|Construction plant hirers|1446|
+Carron Co. (Holdings)|Metal products|1400|
+Wm Low|Retail stores|1388|G.W. Dunn
+Bremner|Warehousemen|1380|
+Teith Holdings (holding company for Amalgamated Tea Estates)|Tea merchants|1377|Sir J. Muir (C), Sir C. Campbell (DC), C.C.C. Bell, A.R.A.G. Cameron, R.J. Clough, N.S. Coldwell, H. Ferguson, W.W. Mayne, G.R. Muir
+Cessnock Holdings (holding company for Kanan Devan Hills)|Tea merchants|1300|Sir J. Muir (C), Sir C. Campbell (DC), C.C.C. Bell, A.R.A.G. Cameron, R.J. Clough, N.S. Coldwell, H. Ferguson, W.W. Mayne, G.R. Muir
+Stoddard Holdings (formerly A.F. Stoddard)|Carpet man.|1300|
+Richards|Synthetic yarn|1286|R.J.C. Fleming
+Brownlee|Sawmills|1281|J.F. Carnegie, J. Chiene
+North British Steel Group|Metal founders|1273|G.M. Menzies, Sir G.C. Harvie-Watt
+Ayrshire Metal Products|Metal products|1250|
+Bruntons (Musselburgh)|Steel wire & ropes|1250|
+Coltness Group (formerly Coltness Iron)|Holding company|1250|
+Section B: Banking Companies
+Company|Deposits (1000)|Multiple Directors
+National & Commercial Banking Group|2035156|J.O. Blair-Cunynghame (C), I.W. Macdonald (DC), Sir A.F. McDonald, Sir T.G. Waterlow
+Royal Bank of Scotland|889392|J.O. Blair-Cunynghame (C), Sir T.G. Waterlow (DC), D.H. Cameron (VC), G.T. Chiene (VC), Sir I.M. Stewart, L.M.H. Gow, J.C.R. Inglis, I.W. Macdonald, P.J. Oliphant
+Bank of Scotland|767201|Lord Clydesmuir (G), T.R. Craig (DG), Lord Balfour of Burleigh, Sir A. Blair, J.G.S. Gammell, J.A. Lumsden, T.N. Risk, W.F. Robertson, C.F. Younger
+Clydesdale Bank|516143|A.L. McClure (DC), R.D. Fairbairn (VC), W.R. Alexander, W.D. Coats, J.S.R. Cruickshank, Sir G. Harvie-Watt, I.M. Tennant, Sir W.G.N. Walker, Sir E. Yarrow
+Section C: Insurance Companies
+Company|Life and General Funds (1000)|Multiple Directors
+Standard Life Assurance|1056626|T.N. Risk (C), J.G.S. Gammell, G.P.S. Macpherson, B.D. Misselbrook, I.R. Pitman, Sir T.G. Waterlow, Sir E. Yarrow
+General Accident, Fire & Life Assurance|508662|I.H.S. Black (C), Earl of Airlie, G.M. Menzies, D.W. Nickson, G.R. Simpson
+Scottish Widows Fund & Life Assurance|506142|L.M.H. Gow (C), J.L. Anderson, Sir A.C. Blair, Sir D.H. Cameron, E.H.M. Clutterbuck, A.I. Mackenzie, A.M.M. Stephen
+Scottish Amicable Life Assurance|307691|J.R. Johnstone, R.F. Denholm, W.C.C. Morrison, R.D. Fairbairn
+Scottish Provident Institution|192639|J.C.R. Inglis (C), Sir H. Rose, Lord Clydesmuir, J.A. Lumsden
+Scottish Equitable Life Assurance|136206|R.K. Will (DC), C.F. Sleigh
+Scottish Life Assurance|100786|W.R. Ballantyne (C), T.R. Craig, H.A. Whitson
+Scottish Legal Life Assurance|33431|
+Section D: Investment and Property Companies
+Company|Capital (1000)|Multiple Directors
+Scottish American Investment|30651|P.J. Oliphant (C), W. Berry, Sir H. Hamilton-Dalrymple, P.W. Turcan
+Edinburgh Investment Trust|29420|I.R. Guild (C), J.L. Anderson, L.M.H. Gow, W.H. McGregor, J. Chiene
+British Assets Trust|25250|Sir A.C. Blair (C), P.E.G. Balfour, C.A. Fraser, J.C.R. Inglis, E.J. Ivory
+Scottish Mortgage & Trust|19911|G.T. Chiene (C), J.O. Blair-Cunynghame, D.F. McCurrach, T.R. Macgregor
+Investors' Mortgage Security|17301|J. Chiene (C), D.J. Bogie, C.F. Sleigh, W.R. Alexander
+Second Scottish Investment Trust|16650|Sir W.McE. Younger (C), R.K. Will, T.R. Macgregor (M), Lord Balfour of Burleigh, A.M.M. Grossart
+Clydesdale Investment|16498|J.A. Lumsden (C), W.F. Robertson, A.M.M. Stephen
+Scottish Eastern Investment Trust|15820|A.L. McClure (C), W.L. Milligan (VC), E.H.M. Clutterbuck, J.A.R. Falconer, R.K. Watson
+British Investment Trust|15600|I.R. Pitman (C), G.R. Simpson (DC), J. Burnett-Stuart, Sir T.G. Waterlow
+Alliance Trust|14800|D.F. McCurrach (C, MD), G.T. Chiene, G.W. Dunn, B.H. Thomson, C.N. Thomson, Sir W.G.N. Walker
+Scottish Western Investment|14368|J.A. Lumsden (C), Lord Clydesmuir, R.D. Fairbairn, J.R. Johnstone, A.I. Mackenzie
+Great Northern Investment Trust|13767|J.P. Agnew (C), W.R. Alexander, J.G. Stenhouse, W.K.J. Weir
+Scottish United Investors|13744|I.H.S. Black, Sir J. Muir, D.W. Nickson
+Edinburgh & Dundee Investment (formerly Scottish Central Investment)|12837|G.T. Chiene (C), W.L. Milligan, J.M. Weir
+Caledonian Trust (formerly Second Scottish Western)|10112|J.A. Lumsden (C), W.D. Coats, J.R. Johnstone, J.I. Murray
+Scottish Northern Investment Trust|9945|R.J.C. Fleming (C), I.M. Tennant
+Scottish National Trust|9404|A. Rintoul (C), Sir R. Erskine-Hill, J.F. Carnegie, W.D. Young, R.F. Denholm
+North American Trust|9048|I.R. Guild (C), A.K. Aitkenhead, W.D. Marr, Sir H.V. Bonar, R.E. Fleming, H.S. Spens
+Scottish Cities Investment Trust|8750|
+Scottish Investment Trust|8750|Sir W.McE. Younger (C), R.K. Will, T.R. Macgregor (M), Lord Balfour of Burleigh
+First Scottish American Trust|8091|I.R. Guild (C), Sir H.V. Bonar, R.E. Fleming, H.S. Spens, W.D. Marr, A.K. Aitkenhead
+Securities Trust of Scotland (formerly Reversionary Association)|7848|Sir H. Rose (C), W.H. McGregor, J.M. Weir, J.G. Wallace, T.S. Lewis, W.C.C. Morrison
+Atlantic Assets Trust|7561|J.C.R. Inglis, E.J. Ivory, J.G.S. Gammell, J.M. Menzies
+Aberdeen Trust (formerly Aberdeen & Canadian Investment)|6607|J.S.R. Cruickshank (C), Sir R. Erskine-Hill (DC)
+Second Alliance Trust|5600|D.F. McCurrach (C, MD), G.T. Chiene, G.W. Dunn, B.H. Thomson, C.N. Thomson, Sir W.G.N. Walker
+Pentland Investment Trust|5389|P.J. Oliphant (C), Sir R. Erskine-Hill, J.A.R. Falconer, G.P.S. Macpherson, G.M. Menzies
+Second Great Northern Investment Trust|5085|J.A. Lumsden (C), R.D. Fairbairn, J.I. Murray, A.I. Mackenzie
+Dundee and London Investment Trust|4625|I.C. Low (C)
+Scottish Metropolitan Property|4353|
+Scottish Ontario Investment|3959|J.A.R. Falconer (C), Sir R. Erskine-Hill, G.M. Menzies
+Scottish European Investment|3750|P.W. Turcan (C), P.J. Oliphant
+Argyle Securities|3062|
+American Trust|2965|A.L. McClure (C), A.M.M. Grossart, G.P.S. Macpherson, J.W. Turnbull
+Second British Assets Trust|2775|Sir A.C. Blair (C), P.E.G. Balfour, C.A. Fraser, J.C.R. Inglis, E.J. Ivory
+General Scottish Trust|2538|P.W. Turcan (C), A. Cassels (MD)
+Glendevon Investment Trust|2521|J.A. Lumsden (C), W.D. Coats, A.I. Mackenzie
+Crescent Japan Investment Trust|2500|A.L. McClure (C), J.W. Turnbull
+Aberdeen, Edinburgh & London Trust|2271|J.S.R. Cruickshank (DC), Sir R. Erskine-Hill
+Glasgow Stockholders Trust|2268|A. Rintoul (C), W.D. Young
+Wemyss Investment (formerly Wemyss Collieries Trust)|2250|D.J. Bogie (C), A. Cassels
+Ailsa Investment Trust|2224|W.R. Ballantyne (C), H.A. Whitson
+Amalgamated Securities|2169|
+St Andrew Trust|2092|A.L. McClure
+Glenmurray Investment Trust|1513|J.A. Lumsden (C), J.R. Johnstone
+Dominion & General Trust|1400|Sir R. Erskine-Hill, J.R. Johnstone
