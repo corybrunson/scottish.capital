@@ -11,7 +11,7 @@ Stewarts and Lloyds|Iron and steel|4030|J.G. Stewart (C), G.A. Mitchell, R.M. Wi
 Scottish Oils|Oil|3963|R.I. Watson
 Linen Thread|Textiles|3850|Sir J. Knox (VC)
 Clan Line Steamers|Shipping|3700|
-David Colville & Sons|Iron and steel|3669|T.G. Hardie, Viscount Pirrie, R. Chichton
+David Colville & Sons|Iron and steel|3669|T.G. Hardie, Viscount Pirrie, R. Crichton
 Distillers|Whisky distillers|3243|J. Duff, A. Walker
 Nobel's Explosives|Explosives|2793|Sir R.W. Anstruther (C)
 Forth Bridge Railway|Railways|2325|W. Whitelaw, Duke of Buccleuch
@@ -45,7 +45,7 @@ G. & J. Maclachlan|Distillers|900|
 Amalgamated Tea Estates|Tea merchants|898|Sir A.K. Muir (C), Sir R.D. Moncrieffe, R.H. Sinclair, J.F. Muir, D.M. Hannay, R.H.M. Scott, Sir J.D. Rees, W. Brown
 Stewart and McDonald|Warehousemen|885|
 R. and J. Dick|Shoe and leather goods man.|813|J.P. Smith (C), Sir J.U. Primrose, P. Rintoul, J.T. Tulloch
-Scottish Iron and Steel|Iron and steel|750|R. Chrichton (VC), P. Rintoul
+Scottish Iron and Steel|Iron and steel|750|R. Crichton (VC), P. Rintoul
 George Younger|Brewers|750|Sir G. Younger (C), Earl of Mar and Kellie
 Arizona Copper|Copper mining|737|G. Readman, Sir D. Paulin
 Sir William Arrol|Engineering|726|Sir T. Mason (C), Sir J. Hunter (MD), A. Hunter

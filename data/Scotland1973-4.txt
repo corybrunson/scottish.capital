@@ -36,7 +36,7 @@ Brown & Tawse|Steel stockholders|2320|
 United Wire Group|Steel wire man.|2097|
 Tayforth|Freight carriers|2053|
 Reo Stakis Organization|Restaurants & hotels|2026|
-Lyle Shipping|Shipping|2006|J.P. Agner (C), Sir I.M. Stewart
+Lyle Shipping|Shipping|2006|J.P. Agnew (C), Sir I.M. Stewart
 Blackwood, Morton & Sons|Carpet yarn spinners|2000|
 Scottish Automobile|Motor distributors|2000|
 Titaghur Jute Factory|Jute spinners|1893|W.L. Milligan
@@ -76,7 +76,8 @@ Scottish Widows Fund & Life Assurance|506142|L.M.H. Gow (C), J.L. Anderson, Sir 
 Scottish Amicable Life Assurance|307691|J.R. Johnstone, R.F. Denholm, W.C.C. Morrison, R.D. Fairbairn
 Scottish Provident Institution|192639|J.C.R. Inglis (C), Sir H. Rose, Lord Clydesmuir, J.A. Lumsden
 Scottish Equitable Life Assurance|136206|R.K. Will (DC), C.F. Sleigh
-Scottish Life Assurance|100786|W.R. Ballantyne (C), T.R. Craig, H.A. Whitson
+Scottish Life Assurance|119717|P.W. Turcan (C), R.K. Watson (DC), W. Berry, G.T. Chiene, W.L. Milligan, J.G. Wallace (GM)
+Scottish Mutual Assurance|100786|W.R. Ballantyne (C), T.R. Craig, H.A. Whitson
 Scottish Legal Life Assurance|33431|
 Section D: Investment and Property Companies
 Company|Capital (1000)|Multiple Directors

@@ -33,7 +33,7 @@ Nobel's Explosives|Explosives man.|800|Sir C. Tennant (C), Sir R.W. Anstruther, 
 George Younger & Son|Brewers|750|G. Younger (C)
 Arizona Copper|Copper mining|737|J.B. Harvey, A. McNab
 Irrawaddy Flotilla|Shipping|720|Sir J. King (VC), T. Aitken, J.M. Denny, J. Innes (MD)
-Scottish Gympie Gold Mines|Gold mining|660|J.B. Hillard
+Scottish Gympie Gold Mines|Gold mining|660|J.B. Hilliard
 Allan Line Steamships|Shipping|606|H. Allan
 Clyde Valley Electrical Power|Electricity prod.|600|Sir D. Richmond
 John Dewar & Sons|Whisky distillers|600|
@@ -55,7 +55,7 @@ Dailuane-Talisker Distilleries|Whisky distillers|490|
 Young's Paraffin Light & Mineral Oil|Paraffin man.|453|Sir M. Arthur, H. Brown, Sir J. King, H.S. Macpherson, T. Mason
 Bulloch Lade|Distillers & merchants|450|
 Lanarkshire Steel|Iron & steel man.|450|J. Strain (C), A. Watt
-Glengarnock Iron and Steel|Iron & steel man.|400|J. H. Davidson
+Glengarnock Iron and Steel|Iron & steel man.|400|J.H. Davidson
 Fresno Copper|Copper mining|400|
 Lothian Coal|Coal mining|367|Sir J. King (C), R.K. Stewart, J.A. Hood (MD)
 Scottish Waggon|Coachbuilders|360|J.H. Buchanan, J. Jordan, John Cowan

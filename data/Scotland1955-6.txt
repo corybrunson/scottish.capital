@@ -95,9 +95,9 @@ Great Northern Investment Trust|2250|G.H. Christie (C), Sir Stanley Norie-Miller
 New Zealand and Australian Land|2250|R.I. Marshall (C), T.P. Spens, W.H. Fraser
 Scottish United Investors|2160|H.B. Spens (C), C.H. Mackenzie, R.G. Simpson, H. Cowan-Douglas
 Realisation and Debenture Corporation of Scotland|1800|D.M. Wood (C), R.B. Watson, J.M. Ross, T.G. Waterlow
-Scottish Investment Trust|1750|T.J.C. Gifford (C), R.G. Simpson, E.J. Ivory, W. McE. Younger, E.P. Hudson
+Scottish Investment Trust|1750|T.J.C. Gifford (C), R.G. Simpson, E.J. Ivory, W.McE. Younger, E.P. Hudson
 Second Investors' Mortgage Security|1750|T.J.C. Gifford (C), J. Chiene, D.J. Bogie, A.L. Brown, A.C. Blair
-Edinburgh and Dundee Investment|1663|T.J.C. Gifford (C), A.L. Brown, W.L. Milligan, G.T. CHiene
+Edinburgh and Dundee Investment|1663|T.J.C. Gifford (C), A.L. Brown, W.L. Milligan, G.T. Chiene
 Scottish Eastern Investment Trust|1600|G.I. Stewart
 Second Alliance Trust|1600|A.L. Brown (C, M), T.J.C. Gifford, J.M. Prain, Sir George Cunningham, H.B. Spens, D.F. McCurrach (M), C.N. Thomson
 Aberdeen and Canadian Trust (formerly North of Scotland Canadian)|1545|J.S.R. Cruickshank (C)
@@ -111,7 +111,7 @@ Scottish Northern Investment Trust|1250|Sir G. Williamson (C), R.S.L. Macpherson
 Scottish Capital Investment|1200|T.J.C. Gifford (C), R.G. Simpson, D.B. Bogle
 Scottish Central Investment Trust|1200|T.J.C. Gifford (C), D.M. Wood, J.H. Richardson
 Scottish Consolidated Trust|1200|H.B. Spens (C), H. Cowan-Douglas, A.C. Murray, Sir James Jones
-East Scotland Trust|1190|J.S.R. Cruickshank, G.P.S. Macpherson
+East of Scotland Trust|1190|J.S.R. Cruickshank, G.P.S. Macpherson
 Second British Assets Trust|1125|A.C. Blair (C), B.J. Ivory, H.G. Sharp, Lord Polwarth
 Caledonian Trust|1100|T.P. Spens (C), J.I. Murray (M), A. Mitchell, W.H. Marr
 Scottish Western Investment|1100|T.P. Spens (C), Sir Alex M. Stephen, R.A. Murray (M), R. Laidlaw

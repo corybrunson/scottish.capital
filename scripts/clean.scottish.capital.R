@@ -1,7 +1,7 @@
 library(igraph)
 load('data/scottish.capital.rda')
 
-# Data clean-up
+# COMPANY NAMES
 
 # Vector of company names
 companies <- unlist(sapply(scottish.capital,
@@ -62,6 +62,8 @@ for(j in 1:length(scottish.capital)) {
     i <- i + length(wh.event)
 }
 
+# DIRECTOR NAMES
+
 # Vector of director names
 directors <- unlist(sapply(scottish.capital,
                            function(g) V(g)$name[!V(g)$type]))
@@ -88,8 +90,97 @@ for(i in 1:length(prefix.tab)) {
 }
 length(unique(directors))
 
+# Presence of an honorific
+hons <- c('Sir', 'Maj\\. Gen\\.', 'Col\\.', 'Hon\\.')
+for(hon in hons) {
+    # Determine which names come both with and without the honorific
+    w.hon <- grep(paste0('^', hon, ' '), directors)
+    wo.hon <- sub(paste0('^', hon, ' (.*)$'), '\\1', directors[w.hon])
+    wwo.hon <- wo.hon[which(wo.hon %in% directors)]
+    # Provided at most one interval is skipped over between appearances,
+    # replace all instances with the one with the honorific
+    for(wwo in wwo.hon) {
+        wh.graph <- which(sapply(scottish.capital, function(g) {
+            any(grepl(paste0('^(', hon, ' ){0,1}', wwo, '$'),
+                      V(g)$name))
+        }))
+        if(length(wh.graph) > 1) {
+            if(max(diff(wh.graph)) > 2 | max(wh.graph) - min(wh.graph) > 3) next
+        }
+        wh.dirs <- which(grepl(paste0('^(', hon, ' ){0,1}', wwo, '$'),
+                               directors))
+        directors[wh.dirs] <- paste0(hon, ' ', wwo)
+    }
+}
 
-# STILL TO DO
+# Manual name equivalences across intervals
+equivs <- c(
+    '^Sir R\\.(W\\.){0,1} Anstruther$',
+    '^Sir A\\. {0,1}S(\\.|teven) Bilsland$',
+    '^Sir A\\.(C\\.){0,1} Blair$',
+    '^(Sir ){0,1}J(as|ames){0,1}. {0,1}(C|I). Campbell$',
+    '^Sir J(\\.|ohn )T. Cargill$',
+    '^J(\\.|ohn) Cowan$',
+    '^H\\.(U\\.){0,1} Cunningham$',
+    '^Sir Maurice (E\\. ){0,1}Denny$',
+    '^J\\.(A\\.){0,1} Dewar$',
+    '^Lord (George|Nigel) Douglas-Hamilton$',
+    '^R(\\.|alph )(W\\. ){0,1}Dundas$',
+    '^Sir R(\\.|obert) Erskine-Hill$',
+    '^R\\.(E\\.){0,1} Findlay$',
+    '^(R|T)\\.D\\. Findlay$',
+    '^(Sir ){0,1}H(\\.|ugh) Fraser$',
+    '^A\\.(B\\.){0,1} Gilroy$',
+    '^Sir L\\.(G|J)\\. Grant$',
+    '^Sir G\\.(C\\.){0,1} Harvie-Watt$',
+    '^(Capt\\. ){0,1}J\\.(F\\.){0,1}H\\. Houldsworth$',
+    '^B\\.(G|J)\\. Ivory$',
+    '^H(\\.|enry) Lithgow$',
+    '^M\\. Ma{0,1}cDougall$',
+    '^Sir A\\.(F\\.){0,1} McDonald$',
+    '^Sir J(\\.|ohn) Muir$',
+    '^Sir H(\\.|ugh) Rose$',
+    '^R\\.(H|M)\\. Sinclair$',
+    '^D\\.(J\\.){0,1} Smith$',
+    '^Sir D(\\.|ouglas) Thomson$',
+    '^(J|T)\\.W\\. Tod$',
+    '^Sir Ernest (M\\. ){0,1}Wedderburn$',
+    '^Sir G(\\.|eorge) Williamson$',
+    '(B|H)\\.C\\. Wilson$',
+    '^C\\.F\\.(J\\.){0,1} Younger$',
+    '^(Sir ){0,1}W(\\.|m )McE\\. Younger$'
+)
+for(equiv in equivs) {
+    # Provided no intervals are skipped over between appearances...
+    wh.graphs <- which(sapply(scottish.capital, function(g) {
+        any(grep(equiv, V(g)$name))
+    }))
+    if(length(wh.graphs) > 1)
+        if(any(diff(wh.graphs) > 1)) {
+            print(equiv)
+            next
+        }
+    # ...replace each instance with the most recent version to appear twice,
+    # or else the most recent
+    wh <- grep(equiv, directors)
+    tab <- table(directors[wh])
+    tw <- names(tab)[which(tab > 1)]
+    ok <- directors[wh[which(directors[wh] %in% tw)]]
+    use <- if(length(ok) > 0) ok[length(ok)] else directors[wh[length(wh)]]
+    directors[wh] <- use
+}
+length(unique(directors))
+
+# Rename nodes according to renamed directors
+i <- 0
+sc <- 1
+while(i < length(directors)) {
+    wh <- which(!V(scottish.capital[[sc]])$type)
+    j <- length(wh)
+    V(scottish.capital[[sc]])$name[wh] <- directors[(i + 1):(i + j)]
+    i <- i + j
+    sc <- sc + 1
+}
 
 # Combine nodes with same name
 for(i in 1:length(scottish.capital)) {
@@ -100,3 +191,17 @@ for(i in 1:length(scottish.capital)) {
     )
 }
 
+# Remove directors that only appear once
+for(i in 1:length(scottish.capital)) {
+    wh <- which(
+        (!V(scottish.capital[[i]])$type) & (degree(scottish.capital[[i]]) == 1)
+    )
+    if(length(wh) == 0) next
+    print('Deleted directors (appear only once)')
+    print(c(i, V(scottish.capital[[i]])$name[wh]))
+    scottish.capital[[i]] <- delete.vertices(scottish.capital[[i]], wh)
+}
+
+save(list = 'scottish.capital', file = 'data/scottish.capital.rda')
+
+rm(list = ls())
