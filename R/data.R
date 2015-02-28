@@ -1,0 +1,14 @@
+#' Networks of interlocking directorates
+#'
+#' Five affiliation networks constructed from the multiple directors lists of
+#' the top >100 Scottish companies over five two-year intervals between 1904 and
+#' 1974.
+#'
+#' @format Undirected igraph objects with nodes of logical attribute `type`;
+#' directors correspond to nodes of type `FALSE`, companies to nodes of type
+#' `TRUE`.
+#' @source John Scott and Michael Hughes (1980) *The Anatomy of Scottish
+#' Capital*
+#' \url{http://books.google.com/books?id=59mvAwAAQBAJ}
+#' @name scottish.capital
+NULL

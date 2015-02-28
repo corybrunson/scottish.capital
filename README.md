@@ -6,4 +6,6 @@ This repo contains data from each of the 5 two-year spans over which Scott and H
 
 Currently the data are known to be inaccurate due to directors going by different names.
 
-> The book is very much a data book. We have tried to provide as much of the basic data as possible so that future investigators and interested persons may return to these data themselves in answering different questions to those we have tackled here.  --"Introduction: Capital, control, and communication"
+> The book is very much a data book. We have tried to provide as much of the basic data as possible so that future investigators and interested persons may return to these data themselves in answering different questions to those we have tackled here.
+
+--"Introduction: Capital, control, and communication"

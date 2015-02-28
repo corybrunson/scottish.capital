@@ -1,0 +1,19 @@
+Package: scottish.capital
+Type: Package
+Title: Data from *The Anatomy of Scottish Capital*
+Version: 0.1
+Date: 2015-02-17
+Authors@R: person('Jason Cory', 'Brunson', email = 'jabrunso@vt.edu',
+    role = c('aut', 'cre'))
+Maintainer: Jason Cory Brunson <brunson@uchc.edu>
+Description: The package contains a data transcribed and processed from the end
+    of-chapter tables in *The Anatomy of Scottish Capital* by John Scott and
+    Michael Hughes. Each such table contains the top (in terms of capital)
+    120 or so companies over a 2-year interval; five total are included.
+Depends: 
+    R (>= 3.0.1),
+    igraph
+Imports: 
+    igraph
+Suggests: 
+License: GPL-2
