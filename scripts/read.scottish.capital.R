@@ -6,7 +6,7 @@ years <- c(1905, 1921, 1938, 1956, 1974)
 # For each interval...
 scottish.capital <- lapply(years, function(year) {
     # Identify the file
-    file = paste0('data/Scotland',
+    file = paste0('scotland/Scotland',
                   as.numeric(year) - 1, '-', substr(year, 4, 4),
                   '.txt')
     # Identify the lines that demarcate the sections, and save their names

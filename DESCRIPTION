@@ -1,6 +1,6 @@
 Package: scottish.capital
 Type: Package
-Title: Data from *The Anatomy of Scottish Capital*
+Title: Data from Scott and Hughes' *The Anatomy of Scottish Capital*
 Version: 0.1
 Date: 2015-02-17
 Authors@R: person('Jason Cory', 'Brunson', email = 'jabrunso@vt.edu',
@@ -14,6 +14,5 @@ Depends:
     R (>= 3.0.1),
     igraph
 Imports: 
-    igraph
 Suggests: 
 License: GPL-2
